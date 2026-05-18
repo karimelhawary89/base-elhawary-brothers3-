@@ -1,0 +1,8 @@
+{
+  "name": "Elhawary Brothers AI Marketing Solutions",
+  "description": "Comprehensive AI marketing solutions for hospitality and B2B industries, featuring intelligent voice bots, automated recruitment, and CRM integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
